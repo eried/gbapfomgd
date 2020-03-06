@@ -1,0 +1,19 @@
+GBT PLAYER
+https://github.com/AntonioND/gbt-player
+v3.0.7
+
+Rednex Game Boy Development System
+https://github.com/rednex/rgbds/releases
+v0.3.9
+
+GingerBread
+https://github.com/ahrnbom/gingerbread
+Mar 4, 2020
+
+BGB
+http://bgb.bircd.org/
+1.5.7
+
+VisualBoyAdvance-M
+https://vba-m.com/
+v2.1.4
